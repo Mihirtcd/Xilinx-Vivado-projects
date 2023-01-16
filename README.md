@@ -10,8 +10,8 @@ You will need to have Xilinx Vivado 2019.1 installed on your machine in order to
 Installing
 To get a copy of the project, you can clone or download the repository from GitHub.
 
-Copy code
 git clone https://github.com/Mihirtcd/Xilinx-Vivado-projects.git
+
 Running the design
 The design can be opened and run in Xilinx Vivado 2019.1 by opening the .xpr file for the specific design. The design also has its own set of constraints and testbench files, which will also need to be opened and run in Vivado. The design uses a one-second delay to increment the counter.
 
