@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Tue Jan 17 23:11:50 2023
+# Process ID: 7836
+# Current directory: C:/Users/Mihir Shekhar/parallel_counter_project4/parallel_counter_project4.runs/impl_1
+# Command line: vivado.exe -log full_adder.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source full_adder.tcl -notrace
+# Log file: C:/Users/Mihir Shekhar/parallel_counter_project4/parallel_counter_project4.runs/impl_1/full_adder.vdi
+# Journal file: C:/Users/Mihir Shekhar/parallel_counter_project4/parallel_counter_project4.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source full_adder.tcl -notrace

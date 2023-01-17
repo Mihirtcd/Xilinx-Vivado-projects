@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Wed Jan 18 03:27:58 2023
+# Process ID: 9372
+# Current directory: C:/Users/Mihir Shekhar/parallel_counter_project4/parallel_counter_project4.runs/synth_1
+# Command line: vivado.exe -log par_counter.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source par_counter.tcl
+# Log file: C:/Users/Mihir Shekhar/parallel_counter_project4/parallel_counter_project4.runs/synth_1/par_counter.vds
+# Journal file: C:/Users/Mihir Shekhar/parallel_counter_project4/parallel_counter_project4.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source par_counter.tcl -notrace
