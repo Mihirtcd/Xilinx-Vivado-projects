@@ -11,7 +11,7 @@ I have used edge spartan 7 FPGA development board.
 Installing:
 To get a copy of the project, you can clone or download the repository from GitHub.
 
-git clone https://github.com/Mihirtcd/Xilinx-Vivado-projects.git(copy this!)
+git clone https://github.com/Mihirtcd/Xilinx-Vivado-projects.git (copy this!)
 
 Running the designs:
 The designs can be opened and run in Xilinx Vivado by opening the .xpr file for the specific design. Each design has its own set of constraints and testbench files, which will also need to be opened and run in Vivado. Once the design is successfully implemented, it can be downloaded to the FPGA development board for testing on hardware.
