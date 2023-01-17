@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Tue Jan 17 05:51:39 2023
+# Process ID: 8844
+# Current directory: C:/Users/Mihir Shekhar/decoder3_8_project/decoder3_8_project.runs/synth_1
+# Command line: vivado.exe -log decoder3_8.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source decoder3_8.tcl
+# Log file: C:/Users/Mihir Shekhar/decoder3_8_project/decoder3_8_project.runs/synth_1/decoder3_8.vds
+# Journal file: C:/Users/Mihir Shekhar/decoder3_8_project/decoder3_8_project.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source decoder3_8.tcl -notrace
