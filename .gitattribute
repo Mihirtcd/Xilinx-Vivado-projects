@@ -1,1 +1,3 @@
 *.verilog linguist-language=verilog
+*.v linguist-language=verilog
+<file_name> linguist-language=verilog
