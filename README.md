@@ -6,7 +6,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 Prerequisites:
 You will need to have Xilinx Vivado 2019.1 installed on your machine in order to open and run the designs in this project. Additionally, you will need access to an FPGA development board to test the designs on hardware.
-I have used edge spartan 7 FPGA development board.
+I have used edge spartan 7 FPGA development board as well as Basys 3 Fpga development board.
 
 Installing:
 To get a copy of the project, you can clone or download the repository from GitHub.
