@@ -3,3 +3,4 @@
 <file_name> linguist-language=verilog
 *.xdc linguist-language=verilog
 *.tcl linguist-language=verilog
+*.html linguist-language=verilog
